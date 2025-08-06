@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+motor
+httpx
+requests-oauthlib
+python-dotenv
+pydantic
+python-multipart
